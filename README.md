@@ -1,6 +1,6 @@
 ## 👋 Привет! Меня зовут Максим
 
-## Data Science/ML-инженер
+## Data Science/ML-engineer/Prompt-engineer
 
 ##### Я живу в городе Барнаул
 
